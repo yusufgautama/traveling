@@ -1,0 +1,10 @@
+Start
+Read destination
+read booking
+Read travel-Schedule
+Call plane
+If plane ="bangkok"
+Store plane with first-day()
+whle first-day ='true'
+Store first-day with second-day()
+call market
