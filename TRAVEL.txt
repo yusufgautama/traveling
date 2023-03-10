@@ -1,0 +1,6 @@
+START
+READ AND WRITE "Lokasi" WIth Object
+READ AND WRITE "Waktu" WIth Object
+WHILE "mengecek tiket"
+STORE "Tiket" with object
+
