@@ -1,0 +1,25 @@
+READ AND WRITE "day-1" with string
+
+STORE "terbang-ke-jepang" with "Garuda Indonesia"
+READ AND WRITE "check-in-hotel" with string
+
+READ AND WRITE "apakah-pergi-ke-tokyo-tower" with boolean
+IF "apakah-pergi-ke-tokyo-tower" equal true
+	STORE "ke-tokyo-tower"
+ELSE
+	STORE "ke-kuil-kuil-lokal"
+END IF
+
+READ AND WRITE "day-2" with string
+
+READ AND WRITE "apakah-pergi-ke-gunung-fuji" with boolean
+IF "apakah-pergi-ke-gunung-fuji" equal true
+	STORE "ke-gunung-fuji"
+ELSE
+	STORE "beli-oleh-oleh"
+END IF
+
+READ AND WRITE "day-3" with string
+
+READ AND WRITE "check-out-hotel" with string
+STORE "terbang-kembali-ke-jakarta" with "Garuda Indonesia"
