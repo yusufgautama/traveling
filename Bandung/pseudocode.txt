@@ -1,0 +1,16 @@
++ READ AND WRITE "Day 1" with string
++
++ STORE "Pergi-ke-Bandung" with "Kereta Api"
++ READ AND WRITE "Check in Hotel"
++
++ READ AND WRITE "apakah akan ke Trans Studio" with boolean
++ IF "apakah-pergi-ke-Trans-Studio" equal true
++       STORE "Pergi ke Trans Studio"
++
++ ELSE
++       STORE "Pergi ke Lembang Zoo
++ END IF
++
++ READ AND WRITE "Day 2" with string
++ READ AND WRITE "Checkout dari Hotel" with string
++ STORE "Pulang-ke-Jakarta" with "Kereta Api"         
