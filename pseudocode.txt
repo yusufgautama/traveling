@@ -1,0 +1,26 @@
+READ AND WRITE "day_1" with string
+
+STORE "flight_to_bangkok_airline" with "Thai Lion Air"
+STORE "flight_to_bangkok_time" with "21:00 WIB"
+READ AND WRITE "go_to_the_hotel" with boolean
+
+READ AND WRITE "day_2" with string
+
+STORE "first_visit_day_2" WITH "Market"
+READ AND WRITE "return to the hotel" with boolean
+
+READ AND WRITE "day_3" with string
+
+READ AND WRITE "would_like_to_have_free_time" with boolean
+IF "would_like_to_have_free_time" equals true
+    STORE "first_visit_day_3" WITH "free_time"
+ELSE
+    STORE "first_visit_day_3" WITH "visit_local_shrine"
+END IF
+READ AND WRITE "return to the hotel" with boolean
+
+READ AND WRITE "day_4" with string
+
+STORE "flight_to_jakarta_airline" with "Garuda Indonesia"
+STORE "flight_to_jakarta_time" with "17:00 WIB"
+READ AND WRITE "return home" with boolean
